@@ -120,6 +120,7 @@ a.nav-link:hover {
   position: absolute;
   right: -285px;
   top: 100px;
+  z-index: 4;
 }
 .img-monitor {
   position: relative;
